@@ -34,10 +34,11 @@
 ###
 ## Quickly indent/outdent multiple lines
 * Enter VISUAL LINE mode - `SHIFT-V`
-* Use the arrow keys or “j” and “k” to select the lines you want to indent.
+* Use the `SHIFT` and `arrow keys` or `j` and `k` to select the lines you want to indent.
 * Hit the `>` character (`SHIFT-.`) to indent.
+* Likewise, hit the `<` character (`SHIFT-,`) to outdent the selected lines.
 * Then, you can repeat the indent using the `.` (repeat key) key. 
-* Likewise, you can type the `<` character to outdent the selected lines.
+
 
 ###
 ###
