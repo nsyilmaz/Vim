@@ -20,3 +20,13 @@
 * Then, you can repeat the indent using the “.” (repeat key) key. Likewise, you can type the “<” character to outdent the selected lines.
 
 ###
+###
+## ~/.vimrc
+```
+:set guifont=Menlo\ Regular:h16
+:colorscheme OceanicNext
+if has("gui_macvim")
+    let macvim_hig_shift_movement = 1
+endif
+```
+###
