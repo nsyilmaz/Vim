@@ -1,4 +1,4 @@
-# Vim tips tricks
+# Vim tips & tricks
 ## Substitution 
 ```
 :%s/hede/hodo/g
