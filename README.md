@@ -12,6 +12,26 @@
 ```
 ###
 ###
+## Cut/copy/paste/undo/redo
+* Cut/Delete char - `x`
+* Cut/Delete line - `dd`
+* Copy line - `yy`
+* Paste - `p`
+* Undo - `u`
+* Redo - `CTRL-R`
+* Repeat last command - `.`
+###
+
+###
+## Navigate in file
+* Go to first line - `:1`
+* Go to n'th line - `:n`
+* Go to last line - `:$`
+* Go to beginning of line  - `^`
+* Go to end of line  - `$`
+###
+
+###
 ## Quickly indent/outdent multiple lines
 
 * Enter VISUAL LINE mode by holding [SHIFT] and hitting the “v” key.
