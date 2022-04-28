@@ -1,5 +1,5 @@
 # Vim tips tricks
-# Substitution 
+## Substitution 
 ```
 :%s/hede/hodo/g
 ```
