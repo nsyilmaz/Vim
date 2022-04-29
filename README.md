@@ -52,12 +52,13 @@ if has("gui_macvim")
 endif
 ```
 
-* Syntax coloring and font settings
+* Indentetion and tab settings
 ```
-:set guifont=Menlo\ Regular:h16
-:colorscheme OceanicNext
-if has("gui_macvim")
-    let macvim_hig_shift_movement = 1
-endif
+:set autoindent
+:set ai
+:set sw=4
+:set sta
+:set si
+:set sts=0
 ```
 #####
