@@ -54,11 +54,12 @@ endif
 
 * Indentetion and tab settings
 ```
-:set autoindent
-:set ai
-:set sw=4
-:set sta
-:set si
-:set sts=0
+set expandtab       "Use softtabstop spaces instead of tab characters for indentation
+set shiftwidth=4    "Indent by 4 spaces when using >>, <<, == etc.
+set softtabstop=4   "Indent by 4 spaces when pressing <TAB>
+set autoindent      "Keep indentation from previous line
+set smartindent     "Automatically inserts indentation in some cases
+set cindent         "Like smartindent, but stricter and more customisable
+autocmd FileType make set noexpandtab shiftwidth=8 softtabstop=0
 ```
 #####
