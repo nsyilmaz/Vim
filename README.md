@@ -1,12 +1,12 @@
 # Vim tips & tricks
 ## Substitution 
-```
+```vim
 :%s/hede/hodo/g
 ```
 #####
 
 ## Syntax highlight
-```
+```vim
 :syn on
 ```
 #####
@@ -43,7 +43,7 @@
 
 ## ~/.vimrc
 * Syntax coloring and font settings
-```
+```vim
 :syn on
 :set guifont=Menlo\ Regular:h16
 :colorscheme OceanicNext
