@@ -42,6 +42,7 @@
 #####
 
 ## ~/.vimrc
+* Syntax coloring and font settings
 ```
 :set guifont=Menlo\ Regular:h16
 :colorscheme OceanicNext
