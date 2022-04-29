@@ -44,6 +44,16 @@
 ## ~/.vimrc
 * Syntax coloring and font settings
 ```
+:syn on
+:set guifont=Menlo\ Regular:h16
+:colorscheme OceanicNext
+if has("gui_macvim")
+    let macvim_hig_shift_movement = 1
+endif
+```
+
+* Syntax coloring and font settings
+```
 :set guifont=Menlo\ Regular:h16
 :colorscheme OceanicNext
 if has("gui_macvim")
