@@ -53,7 +53,7 @@ endif
 ```
 
 * Indentetion and tab settings
-```
+```vim
 set expandtab       "Use softtabstop spaces instead of tab characters for indentation
 set shiftwidth=4    "Indent by 4 spaces when using >>, <<, == etc.
 set softtabstop=4   "Indent by 4 spaces when pressing <TAB>
