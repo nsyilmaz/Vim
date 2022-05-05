@@ -38,10 +38,11 @@
 #####
 
 ## Quickly insert on multiple lines
-* Puts `#` character at the beginning of lines between 1-13
+* Put `#` character at the beginning of lines between 1-13
 ```
 :1,13s/^/#/g
 ```
+OR
 
 * Enter VISUAL BLOCK mode - `CTRL+V`
 * Use the `SHIFT` and `arrow keys` or `j` and `k` to select the lines you want to indent.
