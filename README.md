@@ -45,7 +45,7 @@
 OR
 
 * Enter VISUAL BLOCK mode - `CTRL+V`
-* Use the `SHIFT` and `arrow keys` or `j` and `k` to select the lines you want to indent.
+* Use the `SHIFT` and `arrow keys` or `j` and `k` to select the lines you want to insert string.
 * Hit the `SHIFT+i` and type the text you want to insert.
 * Then, hit `ESC`.
 #####
