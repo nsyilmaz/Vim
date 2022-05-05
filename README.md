@@ -38,6 +38,7 @@
 #####
 
 ## Quickly insert on multiple lines
+* Puts `#` character at the beginning of lines between 1-13
 ```
 :1,13s/^/#/g
 ```
