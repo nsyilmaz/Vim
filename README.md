@@ -32,20 +32,20 @@
 ## Quickly indent/outdent multiple lines
 * Enter VISUAL LINE mode - `SHIFT+V`
 * Use the `SHIFT` and `arrow keys` or `j` and `k` to select the lines you want to indent.
-* Hit the `>` character (`SHIFT-.`) to indent.
-* Likewise, hit the `<` character (`SHIFT-,`) to outdent the selected lines.
+* Hit the `>` character (`SHIFT+.`) to indent.
+* Likewise, hit the `<` character (`SHIFT+,`) to outdent the selected lines.
 * Then, you can repeat the indent using the `.` (repeat key) key. 
 #####
 
 ## Quickly insert on multiple lines
 * Enter VISUAL BLOCK mode - `CTRL+V`
 * Use the `SHIFT` and `arrow keys` or `j` and `k` to select the lines you want to indent.
-* Hit the `SHIT+i` and type the text you want to insert.
+* Hit the `SHIFT+i` and type the text you want to insert.
 * Then, hit `ESC`.
 #####
 
 ## Code completion
-* Type something and then press `CTRL-P`
+* Type something and then press `CTRL+P`
 #####
 
 ## ~/.vimrc
