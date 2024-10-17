@@ -3,6 +3,11 @@
 ```vim
 :%s/hede/hodo/g
 ```
+```vim
+# Ctrl-v+M = Enter
+# \n = Enter
+:%s/,/Ctrl-v+M/g
+```
 #####
 
 ## Syntax highlight
