@@ -5,9 +5,9 @@
 ```
 * Ctrl-v+M = Enter
 * \n = Enter
-
+To substitude [;] with [Enter] :
 ```vim
-:%s/,/Ctrl-v+M/g
+:%s/;/Ctrl-v+M/g
 ```
 #####
 
